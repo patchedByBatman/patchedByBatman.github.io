@@ -1,10 +1,10 @@
 # site headings
-site.name: "My knowledge base."
-site.title: "Knowledge base."
+name: "My knowledge base."
+title: "Knowledge base."
 # site settings
-site.locale: "en-GB"
-site.title_separator: " / "
-site.subtitle: "A library of what I learnt."
+locale: "en-GB"
+title_separator: " / "
+subtitle: "A library of what I learnt."
 
 # theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
