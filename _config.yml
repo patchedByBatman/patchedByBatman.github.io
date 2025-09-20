@@ -9,6 +9,20 @@ subtitle: "A library of what I learnt."
 # theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark"
+## theme-specific defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 plugins:
   - jekyll-include-cache
