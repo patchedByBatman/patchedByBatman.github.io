@@ -1,4 +1,5 @@
-name: My knowledge base.
+site.name: My knowledge base.
+site.title: Knowledge base.
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
