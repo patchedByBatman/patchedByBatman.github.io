@@ -1,0 +1,5 @@
+name: My knowledge base.
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  jekyll-include-cache
